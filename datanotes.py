@@ -1,15 +1,20 @@
-# print() is used to show outputs in the terminal
+#Cases
+#snake_case = uses _ for spaces
+#cammelCase = uses no spaces and 1st letter is lower case then rest upper case 1st letter of each word
+#PascalCase = uses no spaces a upper case 1st letter of each word
+#Kebab-Case = uses - for spaces
+
 # select multiply lines then press Crt+/ to to comment in/out
 
 print("This is data notes")
-
+# print() is used to show outputs in the terminal
 
 print("this is a string")
 print("1234")
 # both are string if it has "" it is a string with characters 8 and 9 are strings
 
 print(1234)
-#this is an interger- a whole num ber value
+#this is an interger- a whole number value
 
 print("12.34")
 #this is a floating point. it is a mathematical value
